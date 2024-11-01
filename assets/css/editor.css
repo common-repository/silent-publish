@@ -1,0 +1,10 @@
+.components-panel__row .c2c-silent-published {
+	font-style: italic;
+}
+.components-panel__row .c2c-silent-publish-disabled {
+	color: #bbb;
+}
+.components-panel__row .c2c-silent-publish-disabled .components-checkbox-control__input[type="checkbox"]:checked {
+	background-color: #bbb;
+	border-color: #bbb;
+}
